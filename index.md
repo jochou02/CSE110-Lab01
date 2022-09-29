@@ -22,3 +22,11 @@ My favorite pizza chains in order are:
 3. Pizza Hut
 4. Papa John's
 
+Some assignments I have coming up are:
+
+- [x] MGT Excel assignment
+- [ ] Engineer Statement
+- [ ] Algorithms group assignment
+- [ ] MUS paper 
+
+The README for this lab can be found [here] (README.md)
