@@ -29,4 +29,4 @@ Some assignments I have coming up are:
 - [ ] Algorithms group assignment
 - [ ] MUS paper 
 
-The README for this lab can be found [here] (README.md)
+The README for this lab can be found [here] (/README.md)
