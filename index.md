@@ -4,6 +4,7 @@
 
 My favorite quote is 
 > Loyalty is a two-way street. If I'm asking for it from you, then you're getting it from me.
+> 
 <sub>- Harvey Specter</sub>
 
 My favorite class so far at UCSD has been `DSC 10` 
@@ -16,5 +17,9 @@ Some of my favorite foods include:
 -Chipotle chicken bowl
 -Beef wellington
 
-My favorite 
+My favorite pizza chains in order are:
+1. Domino's
+2. Little Caesar's
+3. Pizza Hut
+4. Papa John's
 
