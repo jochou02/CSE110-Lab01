@@ -34,3 +34,5 @@ Some assignments I have coming up are:
 - [ ] MUS paper 
 
 The README for this lab can be found [here](./README.md)
+
+Return to the top of the section [here](https://github.com/jochou02/CSE110-Lab01/blob/new-branch/index.md#hi-im-john)
