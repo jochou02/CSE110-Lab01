@@ -1,3 +1,6 @@
+![This is an image](/CB095A9C-9E18-4A15-9A16-24B481FDBA1E.png)
+
+
 # Hi, I'm John
 
 **Welcome to my Github page**
